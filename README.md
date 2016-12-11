@@ -6,6 +6,7 @@ for better statistical visualization.
 
 This program uses the ``PyQt`` for the interface, for practical use has the executable to download this program for Windows system:
 
+---
 **Build**          Alpha 0.1
 
 **OS**             Windows
@@ -13,7 +14,7 @@ This program uses the ``PyQt`` for the interface, for practical use has the exec
 **Download**       https://github.com/Renanrmx/StatisticalDataOrganizer/releases
 
 **Code**           https://github.com/Renanrmx/StatisticalDataOrganizer
-
+---
 
 Requirements and Tested Platforms
 ------------------------------------
