@@ -14,6 +14,7 @@ This program uses the ``PyQt`` for the interface, for practical use has the exec
 **Download**       https://github.com/Renanrmx/StatisticalDataOrganizer/releases
 
 **Code**           https://github.com/Renanrmx/StatisticalDataOrganizer
+
 ---
 
 Requirements and Tested Platforms
