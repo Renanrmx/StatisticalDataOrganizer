@@ -15,7 +15,7 @@ This program uses the ``PyQt`` for the interface, for practical use has the exec
 
 ---
 
-Requirements and Tested Platforms
+Requirements
 ------------------------------------
 
 - Python: 
