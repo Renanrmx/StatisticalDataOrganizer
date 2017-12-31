@@ -5,6 +5,8 @@ Serves to organize a set of numerical data for better statistical visualization.
 
 This program uses the ``PyQt`` for the interface, for practical use has the executable to download this program for Windows system:
 
+![Alt Text](https://github.com/Renanrmx/StatisticalDataOrganizer/blob/master/Example.gif)
+
 ---
 **Build** :         Alpha 0.1
 
